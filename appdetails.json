@@ -16,8 +16,8 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"219.100.37.178 443","active":"true","signal":"b"},
-    {"id":1, "file":1, "city":"Hamburg","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":2, "file":2, "city":"Los Angeles CA","country":"United States","image":"germany","ip":"205.185.119.100","active":"true","signal":"b"}
+    {"id":0, "file":0, "city":"ukrain","country":"ukrain","userName":"freevpn4you","password":"7290751","image":"germany","ip":"219.100.37.178 443","active":"true","signal":"b"},
+    {"id":1, "file":1, "city":"france","country":"france","userName":"freevpn4you","password":"3353315","image":"germany","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":2, "file":2, "city":"canada","country":"canda","userName":"freevpn4you","password":"7352093","image":"germany","ip":"205.185.119.100","active":"true","signal":"b"}
   ]
 }
