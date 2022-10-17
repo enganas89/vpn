@@ -17,7 +17,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"canda","country":"canda","image":"canada","ip":"219.100.37.178 443","active":"true","signal":"b","userName":"freevpn4you","password":"3485534"},
-    {"id":1, "file":1, "city":"france","country":"france","image":"france","ip":"51.68.191.75","active":"true","signal":"b","userName":"freevpn4you","password":"4428813"},
-    {"id":2, "file":2, "city":"ukrain","country":"canda","image":"ukrain","ip":"205.185.119.100","active":"true","signal":"b","userName":"freevpn4you","password":"0146547"}
+    {"id":1, "file":1, "city":"france//","country":"france","image":"france","ip":"51.68.191.75","active":"true","signal":"b","userName":"freevpn4you","password":"4428813"},
+    {"id":2, "file":2, "city":"ukrain//","country":"canda","image":"ukrain","ip":"205.185.119.100","active":"true","signal":"b","userName":"freevpn4you","password":"0146547"}
   ]
 }
